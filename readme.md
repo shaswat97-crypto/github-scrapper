@@ -2,7 +2,7 @@
 <h4 align="left">A program to extract issues of top 3 trending topics on GitHub.</h4>
 
 <p align="left">
- • <a href="#key-features">Key Features</a> 
+ • <a href="#key-features">Key Features</a> <br>
  • <a href="#how-to-use">How To Use</a> 
 </p>
 
