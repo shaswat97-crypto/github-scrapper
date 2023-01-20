@@ -6,7 +6,7 @@
  • <a href="#how-to-use">How To Use</a> 
 </p>
 
-![screenshot](https://j.gifs.com/qQn3r2.gif)
+![screenshot](https://imgur.com/yxqL712)
 
 ## Key Features
 
