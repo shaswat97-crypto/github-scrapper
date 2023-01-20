@@ -2,16 +2,16 @@
 <h4 align="center">A program to extract issues of trending topics on GitHub.</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+ • <a href="#key-features">Key Features</a> 
+ • <a href="#how-to-use">How To Use</a> 
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## Key Features
 
-* Data is provided in pdf format for further reference.
-* All issues are extracted on form of issue link
+* Data is provided in pdf format for further reference
+* All issues are extracted in form of issue link
 
 ## How To Use
 
