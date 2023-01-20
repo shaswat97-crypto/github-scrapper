@@ -1,17 +1,20 @@
 
-<h4 align="center">A program to extract issues of trending topics on GitHub.</h4>
+<h4 align="center">A program to extract issues of top 3 trending topics on GitHub.</h4>
 
 <p align="center">
  • <a href="#key-features">Key Features</a> 
  • <a href="#how-to-use">How To Use</a> 
 </p>
 
+<div style="padding: 51.25% 0 0 0; position: relative"><div style="height:100%;left:0;position:absolute;top:0;width:100%"><iframe height="100%" width="100%;" src="https://embed.wave.video/tIQJQ6ULGeacKjPw" frameborder="0" allow="autoplay; fullscreen" scrolling="no"></iframe></div></div>
+
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## Key Features
 
 * Data is provided in pdf format for further reference
-* All issues are extracted in form of issue link
+* Data is provided in json format, which can be used for other applications
+* All issues are organised in their respective folders according to each project
 
 ## How To Use
 
