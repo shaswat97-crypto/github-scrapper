@@ -6,7 +6,7 @@
  • <a href="#how-to-use">How To Use</a> 
 </p>
 
-![screenshot](https://github.com/shaswat97-crypto/github-scrapper/blob/master/gif/ezgif.com-gif-maker.gif)
+![screenshot](https://github.com/shaswat97-crypto/media/blob/master/githubgif.gif)
 
 ## Key Features
 
