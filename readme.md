@@ -1,13 +1,12 @@
 
-<h4 align="center">A program to extract issues of top 3 trending topics on GitHub.</h4>
+<h4 align="left">A program to extract issues of top 3 trending topics on GitHub.</h4>
 
-<p align="center">
+<p align="left">
  • <a href="#key-features">Key Features</a> 
  • <a href="#how-to-use">How To Use</a> 
 </p>
 
-<!-- ![screenshot](https://github.com/shaswat97-crypto/github-scrapper/blob/master/gif/ezgif.com-gif-maker.gif) -->
-[![Demo CountPages alpha](https://github.com/shaswat97-crypto/github-scrapper/blob/master/gif/ezgif.com-gif-maker.gif)]
+![screenshot](https://github.com/shaswat97-crypto/github-scrapper/blob/master/gif/ezgif.com-gif-maker.gif)
 
 ## Key Features
 
