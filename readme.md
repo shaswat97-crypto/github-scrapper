@@ -1,5 +1,5 @@
 
-<h4 align="left">A program to extract YouTube palylist's data</h4>
+<h4 align="left">A program to extract issues of top 3 trending topics on GitHub</h4>
 
 <p align="left">
  • <a href="#key-features">Key Features</a> <br>
@@ -10,9 +10,9 @@
 
 ## Key Features
 
-* Implementd scroll which makes the program capable of extrcating data from playlists of max length supported by YouTube
-* Data is provided in excel format for further reference
+* Data is provided in pdf format for further reference
 * Data is provided in json format, which can be used for other applications
+* All issues are organised in their respective folders according to each project
 
 
 ## How To Use
@@ -21,16 +21,21 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/shaswat97-crypto/yt-analyser
+$ git clone https://github.com/shaswat97-crypto/github-scrapper.git
 
 # Go into the repository
-$ cd yt-analyser
+$ cd github-scrapper
 
 # Install dependencies
-$ npm install puppeteer
+$ npm init -y
+$ npm install cheerio
+$ npm install fs
+$ npm install path
+$ npm install request
+$ npm install pdfkit
 
 # Run the app
-$ node ytPlaylistAnalyser.js
+$ node git.js
 ```
 
 > **Note**
@@ -41,6 +46,9 @@ $ node ytPlaylistAnalyser.js
 This software uses the following open source packages:
 
 - [Node.js](https://nodejs.org/)
+- [path](https://www.npmjs.com/package/path)
+- [cheerio](https://www.npmjs.com/package/cheerio)
+- [pdfkit](https://www.npmjs.com/package/pdfkit?activeTab=readme)
 
 
 
