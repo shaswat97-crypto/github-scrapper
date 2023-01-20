@@ -8,7 +8,7 @@
 
 <div style="padding: 51.25% 0 0 0; position: relative"><div style="height:100%;left:0;position:absolute;top:0;width:100%"><iframe height="100%" width="100%;" src="https://embed.wave.video/tIQJQ6ULGeacKjPw" frameborder="0" allow="autoplay; fullscreen" scrolling="no"></iframe></div></div>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://embed.wave.video/tIQJQ6ULGeacKjPw)
 
 ## Key Features
 
